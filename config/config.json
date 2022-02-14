@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe1058c875B07Fd9A940a409F2AaBB05AF7599aCC",
+  "SCAN_LINK": "https://etherscan.io/address/0xe1058c875b07fd9a940a409f2aabb05af7599acc",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Alpha Pals",
+  "SYMBOL": "ALPHA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 85000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alpha-pals",
+  "SHOW_BACKGROUND":true
+}
