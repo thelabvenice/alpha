@@ -10,7 +10,7 @@
   "SYMBOL": "ALPHA",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 10000000000000000,
+  "DISPLAY_COST": 01,
   "GAS_LIMIT": 125000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/alpha-pals",
